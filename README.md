@@ -7,4 +7,5 @@ My home made, custom stress test. Written in Python3 and uses prime numbers for 
   If you want to do any thing crazy with the prime number generator go to scripts/stress_test.py
   
 ### ===== Further Plans ==========
-#### I am willing to make a cpp version (no point for stress test) in further time as well.
+#### ~I am willing to make a cpp version (no point for stress test) in further time as well.~ [done: Oct 8, 2019]
+#### make a header file for cpp version for people who may want to use the "Prime Number Generator" part.
